@@ -1,1 +1,1 @@
-web: gunicorn twitter_analysis:app
+web: gunicorn twiteer_analysis:app
